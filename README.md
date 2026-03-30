@@ -1,7 +1,3 @@
-Holy moly what a cool dude
+Ki Yan Chan's Landing Page
 
-![kiyan_linkedin](./kiyan_linkedin.png)
-
-![business_1](./business_1.png)
-
-![business_2](./business_2.png)
+hell yeah he's so cool
